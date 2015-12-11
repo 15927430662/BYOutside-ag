@@ -1,0 +1,33 @@
+{
+  "name": "BYOutside-ag",
+  "authors": [
+    "v8xm"
+  ],
+  "description": "none",
+  "main": "app.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "by"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.8",
+    "angular-ui-router": "~0.2.15",
+    "bPopup": "bpopup#~0.11.0",
+    "slick": "*",
+    "grunt-cli": "~0.1.13",
+    "wow": "~1.1.2",
+    "jquery.cookie": "jquery-cookie#~1.4.1"
+  }
+}

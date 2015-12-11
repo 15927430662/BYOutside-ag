@@ -1,0 +1,8 @@
+/* line 4, ../sass/ie.scss */
+.row { margin-left: -40px !important; }
+
+/* line 5, ../sass/ie.scss */
+.img-frame .front, .img-frame .back { opacity: 0.2 !important; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=20); }
+
+/* line 9, ../sass/ie.scss */
+.img-frame.on .front, .img-frame.on .back { opacity: 1 !important; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100); }
